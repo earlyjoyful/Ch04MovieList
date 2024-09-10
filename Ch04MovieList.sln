@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch04MovieList", "Ch04MovieList.csproj", "{300394F3-3F90-4674-9C9F-01729CB8517C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300394F3-3F90-4674-9C9F-01729CB8517C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300394F3-3F90-4674-9C9F-01729CB8517C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300394F3-3F90-4674-9C9F-01729CB8517C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300394F3-3F90-4674-9C9F-01729CB8517C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878BCE7C-C55E-4BA0-92D9-D93B7C72C3DF}
+	EndGlobalSection
+EndGlobal
